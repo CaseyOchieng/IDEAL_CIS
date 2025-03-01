@@ -1,7 +1,7 @@
-"use client"
+"use client";
 
-import HeroGeometric from "../components/kokonutui/hero-geometric"
+import HeroGeometric from "../components/hero-geometric";
 
 export default function SyntheticV0PageForDeployment() {
-  return <HeroGeometric />
+  return <HeroGeometric />;
 }
